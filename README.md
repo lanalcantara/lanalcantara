@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Lana Sofia Alcântara
-- 👀 I’m interested in Front-End HTML CSS
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Front-End 
+- 🌱 I’m currently learning Python, java script, react native
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me lanasofia25@yahoo.com.br...
 - 😄 Pronouns: her/she...
